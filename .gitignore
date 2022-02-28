@@ -2,7 +2,7 @@
 ~$*
 # Temporary Backup Files
 *.bak
-.ipynb_checkpoints
+# .ipynb_checkpoints
 # Data Files
 data/
 *.ipynb_checkpoints*
