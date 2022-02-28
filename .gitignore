@@ -5,7 +5,7 @@
 .ipynb_checkpoints
 # Data Files
 data/
-*.ipynb_checkpoints/*
+*.ipynb_checkpoints*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
